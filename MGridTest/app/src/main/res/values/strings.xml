@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">网格布局实例</string>
+    <string name="tv_name">网格实例_陈珺</string>
+    <string name="tv_username">用户名：</string>
+    <string name="tv_password">密码：</string>
+    <string name="tv_information_display">信息显示：</string>
+    <string name="tv_register">注册</string>
+    <string name="tv_username_register">账号</string>
+    <string name="tv_password_register">密码</string>
+    <string name="tv_name_register">注册姓名</string>
+    <string name="bt_clear">清空</string>
+    <string name="bt_login">登录</string>
+    <string name="bt_return">返回</string>
+    <string name="bt_register">点我去注册</string>
+
+    <string name="password_empty">密码不能为空</string>
+    <string name="username_empty">账号不能为空</string>
+    <string name="username_or_password_error">账号或密码错误</string>
+</resources>
